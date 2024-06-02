@@ -389,6 +389,14 @@ a:focus {
     color: white;
     font-family: 'Barlow', sans-serif;
 }
+.zoom :hover {
+    font-size: 25px;
+    line-height: 1.5em;
+    max-height: 4.8em;
+    overflow: hidden;
+    color: white;
+    font-family: 'Barlow', sans-serif;
+}
 /*******************************/
 /********** Cod CSS ***********/
 /*******************************/
@@ -516,7 +524,7 @@ a:focus {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(0, 0, 0, .5);
+    background: rgba(0, 0, 0, 0);
     z-index: 1;
 }
 
@@ -536,6 +544,10 @@ a:focus {
     justify-content: left;
     flex-direction: column;
     z-index: 2;
+}
+
+.extra-title {
+    font-family: "DM Sans",sans-serif override !important;
 }
 
 .carousel .carousel-text h3 {

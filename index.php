@@ -3,24 +3,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Car Wash management System | Home Page</title>
-
-
-        <!-- Favicon -->
-        <link href="img/favicon.ico" rel="icon">
-
-        <!-- Google Font -->
-        <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"> 
-        
-        <!-- CSS Libraries -->
-        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-        <link href="lib/flaticon/font/flaticon.css" rel="stylesheet">
-        <link href="lib/animate/animate.min.css" rel="stylesheet">
-        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-
-        <!-- Template Stylesheet -->
-        <link href="css/style.css" rel="stylesheet">
+        <title>Royal Touch | Car wash and detailing</title>
     </head>
 
     <body>
@@ -37,8 +20,8 @@
                             Your browser does not support the video tag.
                         </video>
                         </div>
-                        <div class="carousel-text">
-                            <h3>FULL SERVICE AND EXCELLENT QUALITY</h3>
+                        <div class="carousel-text extra-title">
+                            <!-- <h3>Pickup and Seamless </h3> -->
                             <h1>CAR DETAILING</h1>
                        
                         </div>
@@ -56,14 +39,13 @@
         <section class="container-fluid">
             <div class="row no-gutters">
                 <!-- Column 1 -->
-               
                 <div class="col-md-3 columnimg" style="background-image: url('https://detailx.ancorathemes.com/wp-content/uploads/2020/04/post29-copyright-840x620.jpg');">
-                    <a href="http://localhost/cwms/services.php"> 
-                        <div class="overlay"></div> 
+                    <a href="../services.php"> 
+                        <div class="overlay zoom"></div> 
                         <div class="sc_services_item_content_inner"> 
                             <div class="sc_services_item_content_inner_bottom">  
-                                <h2 class="sc_services_item_title">Protection film</h2>
-                                <p class="sc_services_item_text ">Lorem ipsum dolor sit</p>
+                                <h2 class="sc_services_item_title">PPF</h2>
+                                <!-- <p class="sc_services_item_text ">Lorem ipsum dolor sit</p> -->
                             </div>
                         </div>
                     
@@ -71,12 +53,12 @@
                 </div>
                 <!-- Column 2 -->
                 <div class="col-md-3 columnimg" style=" background-image: url('https://detailx.ancorathemes.com/wp-content/uploads/2020/04/post30-copyright.jpg');">
-                    <a href="http://localhost/cwms/services.php">     
+                    <a href="../services.php">     
                         <div class="overlay"></div> 
                         <div class="sc_services_item_content_inner"> 
                             <div class="sc_services_item_content_inner_bottom">  
                                 <h2 class="sc_services_item_title">Steam cleaning</h2>
-                                <p class="sc_services_item_text ">Lorem ipsum dolor sit</p>
+                                <!-- <p class="sc_services_item_text ">Lorem ipsum dolor sit</p> -->
                             </div>
                         </div>
                     </a>
@@ -84,12 +66,12 @@
                 
                 <!-- Column 3 -->
                 <div class="col-md-3 columnimg" style="background-image: url('https://detailx.ancorathemes.com/wp-content/uploads/2020/04/post31-copyright.jpg');">
-                    <a href="http://localhost/cwms/services.php">     
+                    <a href="../services.php">     
                         <div class="overlay"></div> 
                         <div class="sc_services_item_content_inner"> 
                             <div class="sc_services_item_content_inner_bottom">  
-                                <h2 class="sc_services_item_title">Rims & tires washing</h2>
-                                <p class="sc_services_item_text ">Lorem ipsum dolor sit</p>
+                                <h2 class="sc_services_item_title">Wrapping</h2>
+                                <!-- <p class="sc_services_item_text ">Lorem ipsum dolor sit</p> -->
                             </div>
                         </div>
                     </a>
@@ -97,12 +79,12 @@
                 
                 <!-- Column 4 -->
                 <div class="col-md-3 columnimg" style="background-image: url('https://detailx.ancorathemes.com/wp-content/uploads/2020/04/post32-copyright.jpg');">
-                    <a href="http://localhost/cwms/services.php">     
+                    <a href="../services.php">     
                         <div class="overlay"></div>     
                         <div class="sc_services_item_content_inner"> 
                             <div class="sc_services_item_content_inner_bottom">  
                                 <h2 class="sc_services_item_title">Ceramic coating</h2>
-                                <p class="sc_services_item_text ">Lorem ipsum dolor sit</p>
+                                <!-- <p class="sc_services_item_text ">Lorem ipsum dolor sit</p> -->
                             </div>
                         </div>
                     </a>
@@ -133,22 +115,22 @@
                     <div class="about-content">
                         <div class="about-container">
                             <p>
-                                Welcome to DetailX! 
+                                Welcome to Royal Touch! 
                             </p>
                             <p>
-                            Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                            At Royal Touch, we believe in more than just cleaning cars; we believe in transforming them into works of art. Established with a vision to redefine automotive care, our team of skilled professionals brings expertise, innovation, and a dedication to customer satisfaction to every service we offer.
                             </p>
                         </div>
                     </div>
                     <div class="icon-box-wrapper" style="display:flex;text-align: left; flex-direction: row;">
                         <div class="icon-box-icon">
-                            <a href="tel:+18408414433" tabindex="-1">
+                            <a href="tel:+640212808909" tabindex="-1">
                             <svg xmlns="http://www.w3.org/2000/svg" width="482" height="483" viewBox="0 0 482 483" fill="none"><path d="M98.339 320.8C145.939 377.7 203.239 422.5 268.639 454.2C293.539 466 326.839 480 363.939 482.4C366.239 482.5 368.439 482.6 370.739 482.6C395.639 482.6 415.639 474 431.939 456.3C432.039 456.2 432.239 456 432.339 455.8C438.139 448.8 444.739 442.5 451.639 435.8C456.339 431.3 461.139 426.6 465.739 421.8C487.039 399.6 487.039 371.4 465.539 349.9L405.439 289.8C395.239 279.2 383.039 273.6 370.239 273.6C357.439 273.6 345.139 279.2 334.639 289.7L298.839 325.5C295.539 323.6 292.139 321.9 288.939 320.3C284.939 318.3 281.239 316.4 277.939 314.3C245.339 293.6 215.739 266.6 187.439 231.9C173.139 213.8 163.539 198.6 156.839 183.1C166.239 174.6 175.039 165.7 183.539 157C186.539 153.9 189.639 150.8 192.739 147.7C203.539 136.9 209.339 124.4 209.339 111.7C209.339 99 203.639 86.5 192.739 75.7L162.939 45.9C159.439 42.4 156.139 39 152.739 35.5C146.139 28.7 139.239 21.7 132.439 15.4C122.139 5.3 110.039 0 97.239 0C84.539 0 72.339 5.3 61.639 15.5L24.239 52.9C10.639 66.5 2.93901 83 1.33901 102.1C-0.560988 126 3.83901 151.4 15.239 182.1C32.739 229.6 59.139 273.7 98.339 320.8ZM25.739 104.2C26.939 90.9 32.039 79.8 41.639 70.2L78.839 33C84.639 27.4 91.039 24.5 97.239 24.5C103.339 24.5 109.539 27.4 115.239 33.2C121.939 39.4 128.239 45.9 135.039 52.8C138.439 56.3 141.939 59.8 145.439 63.4L175.239 93.2C181.439 99.4 184.639 105.7 184.639 111.9C184.639 118.1 181.439 124.4 175.239 130.6C172.139 133.7 169.039 136.9 165.939 140C156.639 149.4 147.939 158.3 138.339 166.8C138.139 167 138.039 167.1 137.839 167.3C129.539 175.6 130.839 183.5 132.839 189.5C132.939 189.8 133.039 190 133.139 190.3C140.839 208.8 151.539 226.4 168.239 247.4C198.239 284.4 229.839 313.1 264.639 335.2C268.939 338 273.539 340.2 277.839 342.4C281.839 344.4 285.539 346.3 288.839 348.4C289.239 348.6 289.539 348.8 289.939 349C293.239 350.7 296.439 351.5 299.639 351.5C307.639 351.5 312.839 346.4 314.539 344.7L351.939 307.3C357.739 301.5 364.039 298.4 370.239 298.4C377.839 298.4 384.039 303.1 387.939 307.3L448.239 367.5C460.239 379.5 460.139 392.5 447.939 405.2C443.739 409.7 439.339 414 434.639 418.5C427.639 425.3 420.339 432.3 413.739 440.2C402.239 452.6 388.539 458.4 370.839 458.4C369.139 458.4 367.339 458.3 365.639 458.2C332.839 456.1 302.339 443.3 279.439 432.4C217.239 402.3 162.639 359.6 117.339 305.4C80.039 260.5 54.939 218.7 38.339 173.9C28.039 146.4 24.139 124.3 25.739 104.2Z" fill="currentColor"></path></svg> </a>
                         </div>
                         <div class="icon-box-content">
                             <h5 class="icon-box-title">
-                                <a href="tel:+18408414433">
-                                    0 800 555 44 33 
+                                <a href="tel:+640212808909">
+                                    0212808909
                                 </a>
                             </h5>
                         </div>
@@ -278,7 +260,7 @@
                            
                         </div>
                         <div class="sc_item_button">
-                            <a href="http://localhost/cwms/booking.php" class="sc_button">
+                            <a href="/booking.php" class="sc_button">
                                 <span class="sc_button_text">
                                     <span class="sc_button_title">Book Now</span>
                                 </span>
@@ -297,7 +279,7 @@
                             
                         </div>
                         <div class="sc_item_button">
-                            <a href="http://localhost/cwms/contact.php" class="sc_button">
+                            <a href="../contact.php" class="sc_button">
                                 <span class="sc_button_text">
                                     <span class="sc_button_title">Contact Us </span>
                                 </span>
@@ -313,7 +295,7 @@
         <div class="facts" data-parallax="scroll" data-image-src="img/facts.jpg">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3 col-md-6">
+                    <!-- <div class="col-lg-3 col-md-6">
                         <div class="facts-item">
                             <i class="fa fa-map-marker-alt"></i>
                             <div class="facts-text">
@@ -321,30 +303,30 @@
                                 <p>Service Points</p>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
+                    </div> -->
+                    <div class="col-lg-4 col-md-8">
                         <div class="facts-item">
                             <i class="fa fa-user"></i>
                             <div class="facts-text">
-                                <h3 data-toggle="counter-up">350</h3>
+                                <h3 data-toggle="counter-up">35</h3>
                                 <p>Engineers & Workers</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6">
+                    <div class="col-lg-4 col-md-8">
                         <div class="facts-item">
                             <i class="fa fa-users"></i>
                             <div class="facts-text">
-                                <h3 data-toggle="counter-up">1500</h3>
+                                <h3 data-toggle="counter-up">200</h3>
                                 <p>Happy Clients</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6">
+                    <div class="col-lg-4 col-md-8">
                         <div class="facts-item">
                             <i class="fa fa-check"></i>
                             <div class="facts-text">
-                                <h3 data-toggle="counter-up">5000</h3>
+                                <h3 data-toggle="counter-up">1000</h3>
                                 <p>Projects Completed</p>
                             </div>
                         </div>
@@ -452,42 +434,42 @@
                 </div>
                 <div class="owl-carousel testimonials-carousel">
                     <div class="testimonial-item">
-                        <img src="img/testimonial-1.jpg" alt="Image">
+                        <img src="img/user-avatar.jpeg" alt="Image">
                         <div class="testimonial-text">
-                            <h3>Client Name</h3>
-                            <h4>Profession</h4>
+                            <h3>Sarah W.</h3>
+                            <!-- <h4>Profession</h4> -->
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasel preti mi facilis ornare velit non vulputa. Aliqu metus tortor auctor gravid
+                                Absolutely thrilled with the PPF service! My car looks as good as new, and the attention to detail is unmatched. Royal Touch detailing studio is now my go-to for automotive care!
                             </p>
                         </div>
                     </div>
                     <div class="testimonial-item">
-                        <img src="img/testimonial-2.jpg" alt="Image">
+                        <img src="img/user-avatar.jpeg" alt="Image">
                         <div class="testimonial-text">
-                            <h3>Client Name</h3>
-                            <h4>Profession</h4>
+                            <h3>Jason M.</h3>
+                            <!-- <h4>Profession</h4> -->
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasel preti mi facilis ornare velit non vulputa. Aliqu metus tortor auctor gravid
+                                The ceramic coating brought out an incredible depth in my car's paint. It's like a mirror finish! The team's dedication to perfection is evident in every inch of my vehicle. Highly recommended!    
                             </p>
                         </div>
                     </div>
                     <div class="testimonial-item">
-                        <img src="img/testimonial-3.jpg" alt="Image">
+                        <img src="img/user-avatar.jpeg" alt="Image">
                         <div class="testimonial-text">
-                            <h3>Client Name</h3>
-                            <h4>Profession</h4>
+                            <h3>Emily T.</h3>
+                            <!-- <h4>Profession</h4> -->
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasel preti mi facilis ornare velit non vulputa. Aliqu metus tortor auctor gravid
+                            I've been to many detailing places, but Royal touch car wash and detailing sets a new standard. The steam cleaning did wonders for my car's interior, and the staff's professionalism made the entire experience exceptional. Kudos! 
                             </p>
                         </div>
                     </div>
                     <div class="testimonial-item">
-                        <img src="img/testimonial-4.jpg" alt="Image">
+                        <img src="img/user-avatar.jpeg" alt="Image">
                         <div class="testimonial-text">
-                            <h3>Client Name</h3>
-                            <h4>Profession</h4>
+                            <h3>Alex K.</h3>
+                            <!-- <h4>Profession</h4> -->
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasel preti mi facilis ornare velit non vulputa. Aliqu metus tortor auctor gravid
+                                The wrapping service exceeded my expectations! The design was flawlessly executed, and the quality of the materials is impressive. Royal touch car wash and detailing truly understands the art of customization.
                             </p>
                         </div>
                     </div>
@@ -497,22 +479,6 @@
         <!-- Testimonial End -->
         <!-- Footer Start -->
    <?php include_once('includes/footer.php');?>
-        
-
-
-
-        <!-- JavaScript Libraries -->
-        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-        <script src="lib/easing/easing.min.js"></script>
-        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-        <script src="lib/waypoints/waypoints.min.js"></script>
-        <script src="lib/counterup/counterup.min.js"></script>
-        
-        <!-- Contact Javascript File -->
-        <script src="mail/jqBootstrapValidation.min.js"></script>
-        <script src="mail/contact.js"></script>
-
         <!-- Template Javascript -->
         <script src="js/main.js"></script>
     </body>

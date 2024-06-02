@@ -1,4 +1,4 @@
-<?php error_reporting(0);
+<?php // error_reporting(0);
 include('includes/config.php');
 
 if(isset($_POST['submit']))

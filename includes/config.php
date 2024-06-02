@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost:8080');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','cwmsdb');
+define('DB_HOST','sql108.infinityfree.com');
+define('DB_USER','if0_35809152');
+define('DB_PASS','CKGC1Xq6mau4UYP');
+define('DB_NAME','if0_35809152_cwmsdb');
 // Establish database connection.
 try
 {
